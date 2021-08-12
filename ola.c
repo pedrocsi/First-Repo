@@ -6,6 +6,7 @@
 
 int main(void){
     printf("olaaaaa");
+    getc();
     printf("Max: %d", MAX);
     return 0;
 }
